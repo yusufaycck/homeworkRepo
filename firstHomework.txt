@@ -1,0 +1,13 @@
+Hoem work#1.
+
+1.Open chrome
+2.Nabigate to techtorialacademy.com
+3.Login
+4.Sign up for a class
+5.Set reminder
+6.logout
+
+
+Please finish this task before 05/15/2020
+
+Should you have 
